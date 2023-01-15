@@ -1,0 +1,23 @@
+.formReg {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.content {
+  flex: 1 0 auto;
+  height: 82%;
+}
+.footer {
+  flex: 0 0 auto;
+  height: 8%;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.form-control:focus {
+  border-color: #669999 !important;
+  box-shadow: 0 0 5px #666699 !important;
+}

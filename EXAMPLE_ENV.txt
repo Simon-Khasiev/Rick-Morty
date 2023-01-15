@@ -1,0 +1,5 @@
+
+PORT=3000
+DB_USER=
+DB_PASS=123
+DB_NAME=eagles
