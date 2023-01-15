@@ -1,0 +1,2 @@
+# Rick-Morty
+react, ssr
