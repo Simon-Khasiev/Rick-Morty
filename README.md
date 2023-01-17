@@ -1,3 +1,3 @@
 # Rick-Morty
-react, ssr
+react, ssr,
 rick & morty api
